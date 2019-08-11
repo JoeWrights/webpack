@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>图标/分享复制 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0 23.999222 0 23.999222 24 0 24"></polygon>
+    </defs>
+    <g id="app页面" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon切图" transform="translate(-544.000000, -73.000000)">
+            <g id="图标/分享复制-2_export复制复制复制复制" transform="translate(544.000000, 73.000000)">
+                <g id="编组">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Clip-2"></g>
+                    <path d="M5.5,9.72616056 C5.5,13.8561244 10.2346955,18.1197437 12.055013,19.5 C13.874495,18.1401534 18.5,13.9285588 18.5,9.72616056 C18.5,6.29292804 15.5838154,3.5 12,3.5 C8.4161846,3.5 5.5,6.29292804 5.5,9.72616056 Z M12.012207,22.7163086 C6.00406901,18.2233029 3,13.8589333 3,9.6232 C3,4.8684 7.0374339,1 12,1 C16.9625661,1 21,4.8684 21,9.6232 C21,13.9304 18.004069,18.2947695 12.012207,22.7163086 Z" id="Fill-1" fill="#333333" mask="url(#mask-2)"></path>
+                    <path d="M15,10 C15,11.6568095 13.6568095,13 12,13 C10.3431905,13 9,11.6568095 9,10 C9,8.34319054 10.3431905,7 12,7 C13.6568095,7 15,8.34319054 15,10" id="Fill-3" fill="#333333" mask="url(#mask-2)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

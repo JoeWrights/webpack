@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>图标/相册复制 8</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="3.27272727e-05 0.232658182 17.8615636 0.232658182 17.8615636 2.19629455 3.27272727e-05 2.19629455"></polygon>
+    </defs>
+    <g id="app页面" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon切图" transform="translate(-389.000000, -241.000000)">
+            <g id="图标/相册复制-8_export" transform="translate(389.000000, 241.000000)">
+                <g id="图标/IM输入框展开">
+                    <g id="Page-1" stroke-width="1" transform="translate(1.000000, 1.000000)">
+                        <g id="Group-3" transform="translate(0.000000, 7.716469)">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <g id="Clip-2"></g>
+                            <path d="M16.8797782,2.19629455 L0.981850909,2.19629455 C0.43956,2.19629455 3.27272727e-05,1.75676727 3.27272727e-05,1.21447636 C3.27272727e-05,0.672185455 0.43956,0.232658182 0.981850909,0.232658182 L16.8797782,0.232658182 C17.4220691,0.232658182 17.8615964,0.672185455 17.8615964,1.21447636 C17.8615964,1.75676727 17.4220691,2.19629455 16.8797782,2.19629455" id="Fill-1" fill="currentColor" mask="url(#mask-2)"></path>
+                        </g>
+                        <path d="M8.93097818,17.8619236 C8.38868727,17.8619236 7.94916,17.4223964 7.94916,16.8801055 L7.94916,0.981850909 C7.94916,0.43956 8.38868727,3.27272727e-05 8.93097818,3.27272727e-05 C9.47326909,3.27272727e-05 9.91279636,0.43956 9.91279636,0.981850909 L9.91279636,16.8801055 C9.91279636,17.4223964 9.47326909,17.8619236 8.93097818,17.8619236" id="Fill-4" fill="currentColor"></path>
+                    </g>
+                    <rect id="矩形" fill="#D8D8D8" opacity="0" x="0" y="0" width="20" height="20"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
