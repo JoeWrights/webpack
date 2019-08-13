@@ -5,12 +5,14 @@
   "main": "index.js",
   "scripts": {
     "dev": "webpack-dev-server --open",
-    "build": "webpack -p"
+    "build": "webpack -p",
+    "exec": "node clear.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "rimraf": "^2.6.3",
     "url-loader": "^2.1.0"
   }
 }
